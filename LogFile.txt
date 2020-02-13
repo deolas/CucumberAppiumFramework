@@ -1,0 +1,209 @@
+10 Feb 2020 10:56:25  INFO logger - --------------------------------------
+10 Feb 2020 11:02:47  INFO logger - --------------------------------------
+10 Feb 2020 11:03:18  INFO logger - Android driver created
+10 Feb 2020 11:16:42  INFO logger - --------------------------------------
+10 Feb 2020 11:17:27  INFO logger - Android driver created
+10 Feb 2020 11:59:54  INFO logger - --------------------------------------
+10 Feb 2020 12:00:11  INFO logger - Android driver created
+10 Feb 2020 12:00:34  INFO logger - Long press successful on element: [[io.appium.java_client.android.AndroidDriver, Capabilities: {app=/home/shahnawaz/Downloads/bookmyshow/src/main/java/app/SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, name=userHasSlideshareApp, app=/home/shahnawaz/Downloads/bookmyshow/src/main/java/app/SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, deviceName=Android Emulator, noReset=false}, deviceApiLevel=22, deviceManufacturer=vivo, deviceModel=vivo V3, deviceName=dd74ccb2, deviceScreenDensity=320, deviceScreenSize=720x1280, deviceUDID=dd74ccb2, javascriptEnabled=true, locationContextEnabled=false, name=userHasSlideshareApp, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=5.1.1, statBarHeight=48, takesScreenshot=true, viewportRect={left=0, top=48, width=720, height=1232}, warnings={}, webStorageEnabled=false}] -> id: net.slideshare.mobile:id/action_search]
+10 Feb 2020 15:17:16  INFO logger - --------------------------------------
+10 Feb 2020 16:43:31  INFO logger - --------------------------------------
+10 Feb 2020 16:44:00  INFO logger - Android driver created
+10 Feb 2020 19:17:06  INFO logger - --------------------------------------
+10 Feb 2020 19:17:06  INFO logger - --------------------------------------
+10 Feb 2020 19:18:18  INFO logger - Android driver created
+10 Feb 2020 21:06:21  INFO logger - --------------------------------------
+10 Feb 2020 21:06:45  INFO logger - Android driver created
+11 Feb 2020 00:02:12  INFO logger - --------------------------------------
+11 Feb 2020 00:02:52  INFO logger - Android driver created
+11 Feb 2020 00:04:02  INFO logger - --------------------------------------
+11 Feb 2020 00:04:33  INFO logger - Android driver created
+11 Feb 2020 00:09:31  INFO logger - --------------------------------------
+11 Feb 2020 00:10:02  INFO logger - Android driver created
+11 Feb 2020 00:18:13  INFO logger - --------------------------------------
+11 Feb 2020 00:18:46  INFO logger - Android driver created
+11 Feb 2020 00:24:11  INFO logger - --------------------------------------
+11 Feb 2020 00:24:43  INFO logger - Android driver created
+11 Feb 2020 00:30:10  INFO logger - --------------------------------------
+11 Feb 2020 00:30:40  INFO logger - Android driver created
+11 Feb 2020 00:33:24  INFO logger - --------------------------------------
+11 Feb 2020 00:33:50  INFO logger - Android driver created
+11 Feb 2020 00:33:55  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 00:33:55  INFO logger - MethodName :findElement
+11 Feb 2020 00:33:55  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@Text='Pre Prod']
+11 Feb 2020 00:33:55  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 00:42:34  INFO logger - --------------------------------------
+11 Feb 2020 00:43:04  INFO logger - Android driver created
+11 Feb 2020 00:47:22  INFO logger - --------------------------------------
+11 Feb 2020 00:47:48  INFO logger - Android driver created
+11 Feb 2020 00:51:04  INFO logger - --------------------------------------
+11 Feb 2020 00:51:35  INFO logger - Android driver created
+11 Feb 2020 00:58:34  INFO logger - --------------------------------------
+11 Feb 2020 00:59:12  INFO logger - Android driver created
+11 Feb 2020 01:00:18  INFO logger - --------------------------------------
+11 Feb 2020 01:00:46  INFO logger - Android driver created
+11 Feb 2020 01:00:50  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 01:00:50  INFO logger - MethodName :findElement
+11 Feb 2020 01:00:50  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@Text='Pre Prod']
+11 Feb 2020 01:00:50  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 01:04:53  INFO logger - --------------------------------------
+11 Feb 2020 01:05:23  INFO logger - Android driver created
+11 Feb 2020 01:05:26  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 01:05:26  INFO logger - MethodName :findElement
+11 Feb 2020 01:05:26  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@Text='Pre Prod']
+11 Feb 2020 01:05:26  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 01:06:34  INFO logger - --------------------------------------
+11 Feb 2020 01:07:01  INFO logger - Android driver created
+11 Feb 2020 14:45:15  INFO logger - --------------------------------------
+11 Feb 2020 14:46:52  INFO logger - --------------------------------------
+11 Feb 2020 14:48:30  INFO logger - --------------------------------------
+11 Feb 2020 14:49:40  INFO logger - Android driver created
+11 Feb 2020 14:51:21  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 14:51:21  INFO logger - MethodName :findElement
+11 Feb 2020 14:51:21  INFO logger - Exception :Element not foundBy.id: imgNotifications
+11 Feb 2020 14:51:21  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 14:53:26  INFO logger - --------------------------------------
+11 Feb 2020 15:54:26  INFO logger - --------------------------------------
+11 Feb 2020 15:54:59  INFO logger - Android driver created
+11 Feb 2020 16:16:05  INFO logger - --------------------------------------
+11 Feb 2020 16:16:42  INFO logger - Android driver created
+11 Feb 2020 16:17:16  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 16:17:16  INFO logger - MethodName :findElement
+11 Feb 2020 16:17:16  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@text='Movie']
+11 Feb 2020 16:17:16  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 16:17:51  INFO logger - --------------------------------------
+11 Feb 2020 16:18:29  INFO logger - Android driver created
+11 Feb 2020 16:27:18  INFO logger - --------------------------------------
+11 Feb 2020 16:27:56  INFO logger - Android driver created
+11 Feb 2020 16:35:34  INFO logger - --------------------------------------
+11 Feb 2020 16:36:08  INFO logger - Android driver created
+11 Feb 2020 16:38:05  INFO logger - --------------------------------------
+11 Feb 2020 16:38:36  INFO logger - Android driver created
+11 Feb 2020 16:42:36  INFO logger - --------------------------------------
+11 Feb 2020 16:43:11  INFO logger - Android driver created
+11 Feb 2020 16:44:48  INFO logger - --------------------------------------
+11 Feb 2020 16:45:23  INFO logger - Android driver created
+11 Feb 2020 16:45:55  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 16:45:55  INFO logger - MethodName :findElement
+11 Feb 2020 16:45:55  INFO logger - Exception :Element not foundBy.id: imgNotifications
+11 Feb 2020 16:45:55  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 16:46:40  INFO logger - --------------------------------------
+11 Feb 2020 16:47:14  INFO logger - Android driver created
+11 Feb 2020 16:48:01  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 16:48:01  INFO logger - MethodName :findElement
+11 Feb 2020 16:48:01  INFO logger - Exception :Element not foundBy.id: search_result_title
+11 Feb 2020 16:48:01  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 17:42:19  INFO logger - --------------------------------------
+11 Feb 2020 17:43:08  INFO logger - Android driver created
+11 Feb 2020 17:45:23  INFO logger - --------------------------------------
+11 Feb 2020 17:46:04  INFO logger - Android driver created
+11 Feb 2020 17:47:09  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 17:47:09  INFO logger - MethodName :findElement
+11 Feb 2020 17:47:09  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[contains(text(),'Today')]
+11 Feb 2020 17:47:09  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 17:57:22  INFO logger - --------------------------------------
+11 Feb 2020 17:58:16  INFO logger - Android driver created
+11 Feb 2020 17:59:22  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 17:59:22  INFO logger - MethodName :findElement
+11 Feb 2020 17:59:22  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[contains(text(),'Today')]
+11 Feb 2020 17:59:22  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 18:02:45  INFO logger - --------------------------------------
+11 Feb 2020 18:04:09  INFO logger - Android driver created
+11 Feb 2020 18:19:08  INFO logger - --------------------------------------
+11 Feb 2020 18:19:51  INFO logger - Android driver created
+11 Feb 2020 18:21:27  INFO logger - --------------------------------------
+11 Feb 2020 18:22:03  INFO logger - Android driver created
+11 Feb 2020 18:25:28  INFO logger - --------------------------------------
+11 Feb 2020 18:26:00  INFO logger - Android driver created
+11 Feb 2020 18:26:56  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 18:26:56  INFO logger - MethodName :findElement
+11 Feb 2020 18:26:56  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@text='How many seats?']/following-sibling::android.widget.TextView[@Text='3']
+11 Feb 2020 18:26:56  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 18:28:55  INFO logger - --------------------------------------
+11 Feb 2020 18:29:37  INFO logger - Android driver created
+11 Feb 2020 18:32:01  INFO logger - --------------------------------------
+11 Feb 2020 18:32:37  INFO logger - Android driver created
+11 Feb 2020 18:37:25  INFO logger - --------------------------------------
+11 Feb 2020 18:38:00  INFO logger - Android driver created
+11 Feb 2020 18:39:12  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 18:39:12  INFO logger - MethodName :findElement
+11 Feb 2020 18:39:12  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[contains(text(),'Pay')]
+11 Feb 2020 18:39:12  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 18:41:02  INFO logger - --------------------------------------
+11 Feb 2020 18:41:44  INFO logger - Android driver created
+11 Feb 2020 18:42:57  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 18:42:57  INFO logger - MethodName :findElement
+11 Feb 2020 18:42:57  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@text='Pay ₹ 60.00']
+11 Feb 2020 18:42:57  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 18:51:17  INFO logger - --------------------------------------
+11 Feb 2020 18:52:02  INFO logger - Android driver created
+11 Feb 2020 18:53:45  INFO logger - --------------------------------------
+11 Feb 2020 18:54:27  INFO logger - Android driver created
+11 Feb 2020 18:55:43  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 18:55:43  INFO logger - MethodName :findElement
+11 Feb 2020 18:55:43  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@text='Accept']
+11 Feb 2020 18:55:43  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 18:56:30  INFO logger - --------------------------------------
+11 Feb 2020 18:57:19  INFO logger - Android driver created
+11 Feb 2020 18:58:06  INFO logger - ClassName :cucumberIntegrationTests.screens.android.AndroidLoginScreen
+11 Feb 2020 18:58:06  INFO logger - MethodName :findElement
+11 Feb 2020 18:58:06  INFO logger - Exception :Element not foundBy.xpath: //android.widget.TextView[@text='Accept']
+11 Feb 2020 18:58:06  INFO logger - -----------------------------------------------------------------------------------
+11 Feb 2020 18:58:51  INFO logger - --------------------------------------
+11 Feb 2020 18:59:32  INFO logger - Android driver created
+11 Feb 2020 19:01:07  INFO logger - --------------------------------------
+11 Feb 2020 19:01:48  INFO logger - Android driver created
+11 Feb 2020 19:03:00  INFO logger - --------------------------------------
+11 Feb 2020 19:03:34  INFO logger - Android driver created
+11 Feb 2020 19:26:39  INFO logger - --------------------------------------
+11 Feb 2020 19:27:25  INFO logger - Android driver created
+11 Feb 2020 19:29:38  INFO logger - --------------------------------------
+11 Feb 2020 19:30:19  INFO logger - Android driver created
+11 Feb 2020 19:30:32  INFO logger - --------------------------------------
+11 Feb 2020 19:31:06  INFO logger - Android driver created
+11 Feb 2020 19:33:06  INFO logger - --------------------------------------
+11 Feb 2020 19:33:44  INFO logger - Android driver created
+11 Feb 2020 19:34:01  INFO logger - --------------------------------------
+11 Feb 2020 19:34:33  INFO logger - Android driver created
+11 Feb 2020 19:37:24  INFO logger - --------------------------------------
+11 Feb 2020 19:38:04  INFO logger - Android driver created
+11 Feb 2020 19:39:54  INFO logger - --------------------------------------
+11 Feb 2020 19:40:33  INFO logger - Android driver created
+11 Feb 2020 19:40:50  INFO logger - --------------------------------------
+11 Feb 2020 19:41:23  INFO logger - Android driver created
+11 Feb 2020 19:43:36  INFO logger - --------------------------------------
+11 Feb 2020 19:43:57  INFO logger - --------------------------------------
+11 Feb 2020 19:44:28  INFO logger - Android driver created
+11 Feb 2020 19:45:56  INFO logger - --------------------------------------
+11 Feb 2020 19:46:33  INFO logger - Android driver created
+11 Feb 2020 19:48:21  INFO logger - --------------------------------------
+11 Feb 2020 19:49:03  INFO logger - Android driver created
+11 Feb 2020 19:49:30  INFO logger - --------------------------------------
+11 Feb 2020 19:50:01  INFO logger - Android driver created
+11 Feb 2020 20:57:00  INFO logger - --------------------------------------
+11 Feb 2020 20:57:57  INFO logger - Android driver created
+11 Feb 2020 22:36:19  INFO logger - --------------------------------------
+11 Feb 2020 22:37:02  INFO logger - Android driver created
+11 Feb 2020 23:10:52  INFO logger - --------------------------------------
+11 Feb 2020 23:19:04  INFO logger - --------------------------------------
+11 Feb 2020 23:20:00  INFO logger - Android driver created
+11 Feb 2020 23:22:28  INFO logger - --------------------------------------
+11 Feb 2020 23:24:42  INFO logger - --------------------------------------
+11 Feb 2020 23:25:19  INFO logger - Android driver created
+11 Feb 2020 23:37:56  INFO logger - --------------------------------------
+11 Feb 2020 23:38:30  INFO logger - Android driver created
+11 Feb 2020 23:42:55  INFO logger - --------------------------------------
+11 Feb 2020 23:43:27  INFO logger - Android driver created
+12 Feb 2020 10:19:51  INFO logger - --------------------------------------
+12 Feb 2020 10:20:38  INFO logger - --------------------------------------
+12 Feb 2020 10:21:18  INFO logger - Android driver created
+12 Feb 2020 10:27:57  INFO logger - --------------------------------------
+12 Feb 2020 10:28:27  INFO logger - Android driver created
+12 Feb 2020 10:33:10  INFO logger - --------------------------------------
+12 Feb 2020 10:33:40  INFO logger - Android driver created
+12 Feb 2020 10:35:54  INFO logger - --------------------------------------
+12 Feb 2020 10:36:24  INFO logger - Android driver created
+12 Feb 2020 10:38:31  INFO logger - --------------------------------------
+12 Feb 2020 10:38:59  INFO logger - Android driver created
+12 Feb 2020 10:40:24  INFO logger - --------------------------------------
+12 Feb 2020 10:40:54  INFO logger - Android driver created
